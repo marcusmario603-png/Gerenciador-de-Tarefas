@@ -2,6 +2,9 @@
 
 Aplicação web full stack para organizar tarefas. O backend usa ASP.NET Core e C#; a interface usa HTML, CSS e JavaScript sem frameworks. As tarefas ficam persistidas em um arquivo JSON local.
 
+<img width="1882" height="901" alt="image" src="https://github.com/user-attachments/assets/6cf891cf-03fc-469e-8b9a-5798e379f69c" />
+
+
 ## Funcionalidades
 
 - Criar tarefas com título obrigatório e descrição opcional
